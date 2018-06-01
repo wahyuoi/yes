@@ -27,12 +27,16 @@ man
 ```
 
 
+
 ---
-Running on Dell Latitude E5470,
+#### Result
 
-Default yes command (8.28) give me 5.69 GB/s.
-Simple python code only give me 10.8 MB/s.
+Running on i7-6820HQ 2.70GHz, 16GB RAM, 256SSD.
 
+- Build-in `yes` command (version 8.28) give me 5.69 GB/s.
+`yes | pv -r > /dev/null`
+- Simple python code only give me 10.8 MB/s.
+`python yes.py | pv -r > /dev/null`
 
 
 
