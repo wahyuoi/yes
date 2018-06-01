@@ -25,3 +25,14 @@ man
 man
 man
 ```
+
+
+---
+Running on Dell Latitude E5470,
+
+Default yes command (8.28) give me 5.69 GB/s.
+Simple python code only give me 10.8 MB/s.
+
+
+
+
