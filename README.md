@@ -43,3 +43,5 @@ How to measure? use `pv -r` to get rate of data transfer
 - Java code gives me 3.70 MB/s
 
 
+### How To Compile
+- [Kotlin](https://www.codexpedia.com/kotlin/install-compile-and-run-kotlin-from-command-line/)
